@@ -4,6 +4,7 @@ int main() {
 
     int quilometragem;
     float combustivel, percorrido;
+    
     scanf("%d", & quilometragem);
     scanf("%f", & combustivel);
     
